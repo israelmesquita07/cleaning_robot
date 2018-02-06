@@ -1,7 +1,7 @@
 # cleaning_robot
 MyQ Unattended Coding Test Cleaning Robot
 
-==============================================================================================================
+=================================================================================
 
 *The project was developed in C# Console Application - Visual Studio Community 2017.
 
@@ -13,4 +13,4 @@ MyQ Unattended Coding Test Cleaning Robot
 
 *The file "source.json" must be in the same format as the example in the test.
 
-==============================================================================================================
+=================================================================================
